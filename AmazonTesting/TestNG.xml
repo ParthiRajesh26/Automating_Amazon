@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Amazon Application project">
+
+	<test name="Add to cart Testcase">
+		<classes>
+
+			<class name="testcases.AddToCart_testcase">
+
+			</class>
+
+		</classes>
+	</test>
+
+	<test name="Search Specific Product">
+
+		<classes>
+			<class name="testcases.AddWishList_testcase">
+
+			</class>
+
+		</classes>
+
+
+	</test>
+</suite>
